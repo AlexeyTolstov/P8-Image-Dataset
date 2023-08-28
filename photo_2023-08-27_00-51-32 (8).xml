@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>IMG_TEST</folder>
+    <filename>photo_2023-08-27_00-51-32 (8).jpg</filename>
+    <path>C:/Users/Alex Tolstov/Desktop/IMG_TEST/photo_2023-08-27_00-51-32 (8).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>558</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <name>Cone</name>
+        <pose>Unspecified</pose>
+        <bndbox>
+            <xmin>429</xmin>
+            <ymin>595</ymin>
+            <xmax>474</xmax>
+            <ymax>658</ymax>
+        </bndbox>
+    </object>
+    <segmented>0</segmented>
+    <object>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <name>Cone</name>
+        <pose>Unspecified</pose>
+        <bndbox>
+            <xmin>465</xmin>
+            <ymin>640</ymin>
+            <xmax>511</xmax>
+            <ymax>703</ymax>
+        </bndbox>
+    </object>
+    <segmented>0</segmented>
+    <object>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <name>Truck</name>
+        <pose>Unspecified</pose>
+        <bndbox>
+            <xmin>180</xmin>
+            <ymin>628</ymin>
+            <xmax>361</xmax>
+            <ymax>949</ymax>
+        </bndbox>
+    </object>
+    <segmented>0</segmented>
+</annotation>

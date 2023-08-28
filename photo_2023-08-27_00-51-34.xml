@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>IMG_TEST</folder>
+    <filename>photo_2023-08-27_00-51-34.jpg</filename>
+    <path>C:/Users/Alex Tolstov/Desktop/IMG_TEST/photo_2023-08-27_00-51-34.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>558</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <name>Truck</name>
+        <pose>Unspecified</pose>
+        <bndbox>
+            <xmin>205</xmin>
+            <ymin>590</ymin>
+            <xmax>355</xmax>
+            <ymax>847</ymax>
+        </bndbox>
+    </object>
+    <segmented>0</segmented>
+    <object>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <name>Object Black</name>
+        <pose>Unspecified</pose>
+        <bndbox>
+            <xmin>196</xmin>
+            <ymin>699</ymin>
+            <xmax>359</xmax>
+            <ymax>783</ymax>
+        </bndbox>
+    </object>
+    <segmented>0</segmented>
+    <object>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <name>Cone</name>
+        <pose>Unspecified</pose>
+        <bndbox>
+            <xmin>466</xmin>
+            <ymin>646</ymin>
+            <xmax>508</xmax>
+            <ymax>706</ymax>
+        </bndbox>
+    </object>
+    <segmented>0</segmented>
+    <object>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <name>Cone</name>
+        <pose>Unspecified</pose>
+        <bndbox>
+            <xmin>431</xmin>
+            <ymin>602</ymin>
+            <xmax>473</xmax>
+            <ymax>666</ymax>
+        </bndbox>
+    </object>
+    <segmented>0</segmented>
+</annotation>
